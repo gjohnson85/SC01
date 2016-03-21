@@ -9,6 +9,7 @@
     </author>
   <content src="index.html"/>
   <access origin="*"/>
+  <plugin name="cordova-plugin-inappbrowser" spec="1.0.1" source="pgb" />
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
@@ -41,4 +42,4 @@
   </platform>
 </widget>
 
-<plugin name="cordova-plugin-inappbrowser" spec="1.0.1" source="pgb" />
+
